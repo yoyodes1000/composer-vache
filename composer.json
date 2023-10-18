@@ -1,0 +1,17 @@
+{
+    "name": "yoyod/composer3",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yoyodes1000",
+            "email": "yoyodes1000@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.2"
+    }
+}
